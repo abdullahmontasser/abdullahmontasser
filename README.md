@@ -1,12 +1,6 @@
-<div align="center">
+# Hi, I'm Abdullah Montasser
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+I'm+Abdullah+Montasser;AI+Engineering+Graduate;Full-Stack+%26+LLM+Developer" alt="Typing SVG" />
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=abdullahmontasser&color=8b8b8b&style=flat-square&label=Views" />
-</p>
-
-</div>
+AI Engineering Graduate · Full-Stack & LLM Developer
 
 ---
 
@@ -22,15 +16,12 @@ Right now I'm looking for an AI Engineer or Full-Stack role where I can contribu
 
 ## Tech Stack
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=5000&pause=800&color=8b8b8b&width=700&lines=JavaScript+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+C%2B%2B;React+%C2%B7+Next.js+%C2%B7+React+Native;Node.js+%C2%B7+Express+%C2%B7+FastAPI+%C2%B7+Flask;LangChain+%C2%B7+RAG+%C2%B7+ChromaDB;Gemini+%C2%B7+YOLO11+%C2%B7+OpenCV;Docker+%C2%B7+Git+%C2%B7+Vercel" alt="Tech Stack" />
-
 <p>
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="28" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="28" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="28" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="28" />
   <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="28" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="28" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="28" />
   <img src="https://cdn.simpleicons.org/express/FFFFFF" height="28" />
   <img src="https://cdn.simpleicons.org/fastapi/009688" height="28" />
