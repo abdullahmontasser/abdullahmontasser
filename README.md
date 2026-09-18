@@ -17,21 +17,66 @@ Right now I'm looking for an AI Engineer or Full-Stack role where I can contribu
 ## Tech Stack
 
 <p>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="28" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="28" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="28" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="28" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="28" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="28" />
-  <img src="https://cdn.simpleicons.org/express/FFFFFF" height="28" />
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="28" />
-  <img src="https://cdn.simpleicons.org/flask/FFFFFF" height="28" />
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="28" />
-  <img src="https://cdn.simpleicons.org/chroma/FF6F00" height="28" />
-  <img src="https://cdn.simpleicons.org/googlegemini/4285F4" height="28" />
-  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="28" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="28" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="28" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/javascript/F7DF1E" />
+    <img src="https://cdn.simpleicons.org/javascript/000000" height="28" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/typescript/3178C6" />
+    <img src="https://cdn.simpleicons.org/typescript/000000" height="28" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/3776AB" />
+    <img src="https://cdn.simpleicons.org/python/000000" height="28" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react/61DAFB" />
+    <img src="https://cdn.simpleicons.org/react/000000" height="28" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/FFFFFF" />
+    <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="28" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nodedotjs/339933" />
+    <img src="https://cdn.simpleicons.org/nodedotjs/000000" height="28" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/FFFFFF" />
+    <img src="https://cdn.simpleicons.org/express/000000" height="28" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/fastapi/009688" />
+    <img src="https://cdn.simpleicons.org/fastapi/000000" height="28" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/flask/FFFFFF" />
+    <img src="https://cdn.simpleicons.org/flask/000000" height="28" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/langchain/1C3C3C" />
+    <img src="https://cdn.simpleicons.org/langchain/000000" height="28" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/chroma/FF6F00" />
+    <img src="https://cdn.simpleicons.org/chroma/000000" height="28" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googlegemini/4285F4" />
+    <img src="https://cdn.simpleicons.org/googlegemini/000000" height="28" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/opencv/5C3EE8" />
+    <img src="https://cdn.simpleicons.org/opencv/000000" height="28" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/docker/2496ED" />
+    <img src="https://cdn.simpleicons.org/docker/000000" height="28" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/git/F05032" />
+    <img src="https://cdn.simpleicons.org/git/000000" height="28" />
+  </picture>
 </p>
 
 ---
@@ -40,18 +85,30 @@ Right now I'm looking for an AI Engineer or Full-Stack role where I can contribu
 
 <p>
   <a href="https://www.linkedin.com/in/abdullah-montasser-65b793200">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="22" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/FFFFFF" />
+      <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="22" />
+    </picture>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:tdfvhugjuff@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/FFFFFF" height="22" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/FFFFFF" />
+      <img src="https://cdn.simpleicons.org/gmail/D14836" height="22" />
+    </picture>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/abdullahmontasser">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" height="22" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" />
+      <img src="https://cdn.simpleicons.org/github/000000" height="22" />
+    </picture>
   </a>
   &nbsp;&nbsp;
   <a href="https://abdullah-montasser.vercel.app/">
-    <img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="22" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/FFFFFF" />
+      <img src="https://cdn.simpleicons.org/vercel/000000" height="22" />
+    </picture>
   </a>
 </p>
