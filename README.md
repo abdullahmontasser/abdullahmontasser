@@ -1,6 +1,6 @@
 # Hi, I'm Abdullah Montasser
 
-AI Engineering Graduate · Full-Stack & LLM Developer
+Ai Engineer | Fullstack Developer
 
 ---
 
