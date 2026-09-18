@@ -1,9 +1,7 @@
 # Hi, I'm Abdullah Montasser
 
 ## Ai Engineer | Fullstack Developer
-
 ---
-
 ## About Me
 
 I'm a fresh AI Engineering graduate from Delta University in Mansoura, Egypt. Over the past few years I've been building full-stack products that combine modern web development with AI — from SaaS platforms and RAG-powered tutors to computer vision systems and mobile apps.
