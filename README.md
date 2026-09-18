@@ -12,16 +12,17 @@
 
 ## About Me
 
-AI Engineering graduate from Delta University, Mansoura, Egypt. I build full-stack applications powered by AI — from RAG systems and LLM apps to computer vision and mobile apps.
+I'm a fresh AI Engineering graduate from Delta University in Mansoura, Egypt. Over the past few years I've been building full-stack products that combine modern web development with AI — from SaaS platforms and RAG-powered tutors to computer vision systems and mobile apps.
 
-- B.Sc. in AI Engineering — CGPA 3.377
-- Exploring RAG, Multi-Agent Systems, MLOps
-- Built a Quran learning app live on Play Store
-- Open to AI Engineer / Full-Stack roles (Remote / Egypt / Gulf)
+I care about shipping real products, not just tutorials. I've published an app on the Play Store, built SaaS tools used by real users, and worked on freelance projects from idea to deployment.
+
+Right now I'm looking for an AI Engineer or Full-Stack role where I can contribute to meaningful products while continuing to grow in LLMs, RAG, and MLOps.
 
 ---
 
 ## Tech Stack
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=5000&pause=800&color=8b8b8b&width=700&lines=JavaScript+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+C%2B%2B;React+%C2%B7+Next.js+%C2%B7+React+Native;Node.js+%C2%B7+Express+%C2%B7+FastAPI+%C2%B7+Flask;LangChain+%C2%B7+RAG+%C2%B7+ChromaDB;Gemini+%C2%B7+YOLO11+%C2%B7+OpenCV;Docker+%C2%B7+Git+%C2%B7+Vercel" alt="Tech Stack" />
 
 <p>
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="28" />
@@ -41,17 +42,6 @@ AI Engineering graduate from Delta University, Mansoura, Egypt. I build full-sta
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="28" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="28" />
 </p>
-
----
-
-## Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| AI Podcast Clipper | SaaS that auto-generates short clips from podcasts using AI | Next.js · FastAPI · Gemini |
-| Hifz Connect | Quran learning mobile app — live on Play Store | React Native · FastAPI |
-| PyTutor RAG | AI Python tutor powered by RAG over documentation | Python · LangChain · ChromaDB |
-| CV Monitoring System | Real-time computer vision with YOLO | Python · OpenCV · YOLO11 |
 
 ---
 
