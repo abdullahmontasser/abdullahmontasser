@@ -86,29 +86,29 @@ Right now I'm looking for an AI Engineer or Full-Stack role where I can contribu
 <p>
   <a href="https://www.linkedin.com/in/abdullah-montasser-65b793200">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/FFFFFF" />
-      <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="22" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/9CA3AF" />
+      <img src="https://cdn.simpleicons.org/linkedin/4B5563" height="22" />
     </picture>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:tdfvhugjuff@gmail.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/FFFFFF" />
-      <img src="https://cdn.simpleicons.org/gmail/D14836" height="22" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/9CA3AF" />
+      <img src="https://cdn.simpleicons.org/gmail/4B5563" height="22" />
     </picture>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/abdullahmontasser">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" />
-      <img src="https://cdn.simpleicons.org/github/000000" height="22" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/9CA3AF" />
+      <img src="https://cdn.simpleicons.org/github/4B5563" height="22" />
     </picture>
   </a>
   &nbsp;&nbsp;
   <a href="https://abdullah-montasser.vercel.app/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/FFFFFF" />
-      <img src="https://cdn.simpleicons.org/vercel/000000" height="22" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/9CA3AF" />
+      <img src="https://cdn.simpleicons.org/vercel/4B5563" height="22" />
     </picture>
   </a>
 </p>
