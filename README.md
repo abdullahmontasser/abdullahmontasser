@@ -40,7 +40,7 @@ Right now I'm looking for an AI Engineer or Full-Stack role where I can contribu
 
 <p>
   <a href="https://www.linkedin.com/in/abdullah-montasser-65b793200">
-    <img src="https://cdn.simpleicons.org/linkedin/FFFFFF" height="22" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="22" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:tdfvhugjuff@gmail.com">
@@ -49,5 +49,9 @@ Right now I'm looking for an AI Engineer or Full-Stack role where I can contribu
   &nbsp;&nbsp;
   <a href="https://github.com/abdullahmontasser">
     <img src="https://cdn.simpleicons.org/github/FFFFFF" height="22" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://abdullah-montasser.vercel.app/">
+    <img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="22" />
   </a>
 </p>
