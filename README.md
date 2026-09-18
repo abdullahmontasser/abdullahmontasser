@@ -17,66 +17,21 @@ Right now I'm looking for an AI Engineer or Full-Stack role where I can contribu
 ## Tech Stack
 
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/javascript/F7DF1E" />
-    <img src="https://cdn.simpleicons.org/javascript/000000" height="28" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/typescript/3178C6" />
-    <img src="https://cdn.simpleicons.org/typescript/000000" height="28" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/3776AB" />
-    <img src="https://cdn.simpleicons.org/python/000000" height="28" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react/61DAFB" />
-    <img src="https://cdn.simpleicons.org/react/000000" height="28" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/FFFFFF" />
-    <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="28" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nodedotjs/339933" />
-    <img src="https://cdn.simpleicons.org/nodedotjs/000000" height="28" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/FFFFFF" />
-    <img src="https://cdn.simpleicons.org/express/000000" height="28" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/fastapi/009688" />
-    <img src="https://cdn.simpleicons.org/fastapi/000000" height="28" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/flask/FFFFFF" />
-    <img src="https://cdn.simpleicons.org/flask/000000" height="28" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/langchain/1C3C3C" />
-    <img src="https://cdn.simpleicons.org/langchain/000000" height="28" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/chroma/FF6F00" />
-    <img src="https://cdn.simpleicons.org/chroma/000000" height="28" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googlegemini/4285F4" />
-    <img src="https://cdn.simpleicons.org/googlegemini/000000" height="28" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/opencv/5C3EE8" />
-    <img src="https://cdn.simpleicons.org/opencv/000000" height="28" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/docker/2496ED" />
-    <img src="https://cdn.simpleicons.org/docker/000000" height="28" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/git/F05032" />
-    <img src="https://cdn.simpleicons.org/git/000000" height="28" />
-  </picture>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" height="24" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6" height="24" />
+  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB" height="24" />
+  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB" height="24" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=FFFFFF" height="24" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=339933" height="24" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=FFFFFF" height="24" />
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=009688" height="24" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=FFFFFF" height="24" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=FFFFFF" height="24" />
+  <img src="https://img.shields.io/badge/Chroma-000000?style=flat-square&logo=chroma&logoColor=FF6F00" height="24" />
+  <img src="https://img.shields.io/badge/Gemini-000000?style=flat-square&logo=google&logoColor=4285F4" height="24" />
+  <img src="https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=5C3EE8" height="24" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED" height="24" />
+  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032" height="24" />
 </p>
 
 ---
@@ -85,18 +40,18 @@ Right now I'm looking for an AI Engineer or Full-Stack role where I can contribu
 
 <p>
   <a href="https://www.linkedin.com/in/abdullah-montasser-65b793200">
-    <img src="https://cdn.simpleicons.org/linkedin/4B5563" height="22" />
+    <img src="./icons/linkedin.png" height="24" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:tdfvhugjuff@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/4B5563" height="22" />
+    <img src="./icons/gmail.png" height="24" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/abdullahmontasser">
-    <img src="https://cdn.simpleicons.org/github/4B5563" height="22" />
+    <img src="./icons/github.png" height="24" />
   </a>
   &nbsp;&nbsp;
   <a href="https://abdullah-montasser.vercel.app/">
-    <img src="https://cdn.simpleicons.org/vercel/4B5563" height="22" />
+    <img src="./icons/vercel.png" height="24" />
   </a>
 </p>
